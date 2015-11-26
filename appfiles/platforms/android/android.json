@@ -27,6 +27,9 @@
         },
         "cordova-plugin-device": {
             "PACKAGE_NAME": "com.markp.test"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.markp.test"
         }
     },
     "dependent_plugins": {},
@@ -45,5 +48,8 @@
                 "device"
             ]
         }
-    ]
+    ],
+    "plugin_metadata": {
+        "cordova-plugin-console": "1.0.2"
+    }
 }

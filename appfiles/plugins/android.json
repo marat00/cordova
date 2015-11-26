@@ -12,6 +12,9 @@
         },
         "cordova-plugin-device": {
             "PACKAGE_NAME": "com.markp.test"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.markp.test"
         }
     },
     "dependent_plugins": {}

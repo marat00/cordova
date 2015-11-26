@@ -7,10 +7,13 @@
         "files": {}
     },
     "installed_plugins": {
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.markp.test"
+        },
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "com.markp.test"
         },
-        "cordova-plugin-device": {
+        "cordova-plugin-console": {
             "PACKAGE_NAME": "com.markp.test"
         }
     },
